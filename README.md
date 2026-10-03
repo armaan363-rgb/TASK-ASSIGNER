@@ -12,7 +12,9 @@ Whether you're running a **community, staff team, gaming group, study group, dev
 
 ### 🟡 [Add Task Assigner to Your Server](https://discord.com/oauth2/authorize?client_id=1555037991964246107)
 
-🌐 **Website:** [taskassigner.bot.nu](https://taskassigner.bot.nu/)
+🌐 **Website:** [taskassigner.of.to](https://taskassigner.of.to/)
+
+💬 **Support Server:** [Join the Task Assigner Community](https://discord.gg/gpfgZS2Ca5)
 
 ---
 
@@ -137,6 +139,8 @@ The repository exists to provide:
 
 Watching the repository helps you keep up with future updates and improvements.
 
+You can also help Task Assigner grow by inviting it to your server and supporting it on bot-list platforms.
+
 ---
 
 ## 🔗 LINKS
@@ -144,9 +148,11 @@ Watching the repository helps you keep up with future updates and improvements.
 | Resource | Link |
 |---|---|
 | 🤖 Invite Bot | [Add Task Assigner](https://discord.com/oauth2/authorize?client_id=1555037991964246107) |
-| 🌐 Website | [taskassigner.bot.nu](https://taskassigner.bot.nu/) |
-| 📚 Documentation | Coming soon |
-| 💬 Support Server | Coming soon |
+| 🌐 Website | [taskassigner.of.to](https://taskassigner.of.to/) |
+| 💬 Support Server | [Join Discord](https://discord.gg/gpfgZS2Ca5) |
+| ⭐ Top.gg | **Coming soon** |
+| 🤖 Discord Bot List | **Coming soon** |
+| 📚 Documentation | **Coming soon** |
 
 ---
 
@@ -171,9 +177,11 @@ Planned areas include:
 
 ## 🤝 SUPPORT
 
-Found a problem or have an idea?
+Need help, found a problem, or have a feature idea?
 
-Open an issue in this repository when appropriate, or use the official support channels provided by the Task Assigner team.
+Join the official Task Assigner support server:
+
+### 💬 [Join the Support Server](https://discord.gg/gpfgZS2Ca5)
 
 ---
 
@@ -184,6 +192,8 @@ Open an issue in this repository when appropriate, or use the official support c
 Turn responsibilities into action.
 
 ### ⭐ [Invite Task Assigner](https://discord.com/oauth2/authorize?client_id=1555037991964246107)
+
+🌐 [Website](https://taskassigner.of.to/) • 💬 [Support Server](https://discord.gg/gpfgZS2Ca5)
 
 ---
 
