@@ -1,62 +1,164 @@
+<div align="center">
+
+<img src="assets/banner.png" width="100%" alt="Task Assigner">
+
+<br>
+
+<img src="assets/logo.png" width="120" alt="Task Assigner Logo">
+
 # 🟡 TASK ASSIGNER
 
-> **Assign work. Track progress. Get things done.**
+### Assign • Track • Complete
 
-Task Assigner is a Discord bot designed to make assigning, organizing, tracking, and completing work simple — directly inside your Discord server.
+**Simple, organized task management for Discord.**
 
-Whether you're running a **community, staff team, gaming group, study group, development team, or project**, Task Assigner helps turn responsibilities into clear and manageable tasks.
+<br>
+
+<a href="https://discord.com/oauth2/authorize?client_id=1555037991964246107">
+<img src="https://img.shields.io/badge/🤖%20INVITE%20BOT-FFD700?style=for-the-badge&labelColor=111111">
+</a>
+
+<a href="https://taskassigner.of.to/">
+<img src="https://img.shields.io/badge/🌐%20WEBSITE-FFD700?style=for-the-badge&labelColor=111111">
+</a>
+
+<a href="https://discord.gg/gpfgZS2Ca5">
+<img src="https://img.shields.io/badge/💬%20SUPPORT-5865F2?style=for-the-badge&labelColor=111111">
+</a>
+
+</div>
 
 ---
 
-## 🚀 INVITE TASK ASSIGNER
+## 🟡 What is Task Assigner?
 
-### 🟡 [Add Task Assigner to Your Server](https://discord.com/oauth2/authorize?client_id=1555037991964246107)
+**Task Assigner** is a Discord bot built to make assigning, organizing, tracking, and completing work easier.
 
-🌐 **Website:** [taskassigner.of.to](https://taskassigner.of.to/)
+Instead of losing responsibilities inside normal Discord messages, turn them into **clear, manageable tasks**.
 
-💬 **Support Server:** [Join the Task Assigner Community](https://discord.gg/gpfgZS2Ca5)
+> 📌 **Assign** work  
+> 📊 **Track** progress  
+> 🔔 **Monitor** updates  
+> ✅ **Complete** tasks
 
 ---
 
-## ✨ FEATURES
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%">
 
 ### 📌 Task Assignment
-Assign specific work to another member and make responsibilities clear.
 
-### 👤 Task Management
-Keep track of tasks you've been assigned and tasks you've assigned to others.
+Assign specific work to another member and clearly define their responsibility.
+
+</td>
+<td width="50%">
+
+### 📋 Task Management
+
+Keep track of tasks you've created and tasks assigned to you.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📊 Progress Tracking
-Monitor task progress and quickly see what still needs to be completed.
+
+See what is pending, active, completed, or needs attention.
+
+</td>
+<td width="50%">
 
 ### 🔔 Notifications
-Keep members informed about assignments, updates, deadlines, and important task activity.
 
-### 📝 Organized Work
-Stop searching through hundreds of Discord messages to figure out who needs to do what.
+Keep members informed about important task updates and deadlines.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### ⚡ Discord-Native
-Manage your team's work directly inside Discord without constantly switching between different applications.
+
+Manage everything directly inside Discord using modern application commands.
+
+</td>
+<td width="50%">
+
+### 📝 Organized Work
+
+Replace scattered messages with structured and understandable assignments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 BUILT FOR
+## 📸 Preview
 
-| Community | Use Case |
+### 📌 Assigning Tasks
+
+<div align="center">
+
+<img src="assets/assigning-task.jpg" width="90%" alt="Assigning a task">
+
+</div>
+
+---
+
+### 📋 Managing Tasks
+
+<div align="center">
+
+<img src="assets/tasks.jpg" width="90%" alt="Task management">
+
+</div>
+
+---
+
+### ⚙️ Server Settings
+
+<div align="center">
+
+<img src="assets/settings.jpg" width="90%" alt="Task Assigner settings">
+
+</div>
+
+---
+
+### ❓ Help & Commands
+
+<div align="center">
+
+<img src="assets/help.jpg" width="90%" alt="Task Assigner help">
+
+</div>
+
+---
+
+## 🎯 Built For
+
+| 👥 Community | 🎯 Purpose |
 |---|---|
-| 🛡️ Staff Teams | Assign moderation and management work |
-| 🎮 Gaming Communities | Organize server and gaming tasks |
-| 🏢 Team Projects | Delegate responsibilities |
-| 📚 Study Groups | Assign study and project work |
-| 💻 Development Teams | Track development tasks |
-| 🌐 Discord Communities | Organize community responsibilities |
-| 🏆 Competitive Groups | Manage team-related work |
+| 🛡️ Staff Teams | Moderation & management tasks |
+| 🎮 Gaming Communities | Gaming & server tasks |
+| 💻 Development Teams | Development work |
+| 📚 Study Groups | Assign study/project work |
+| 🏢 Project Teams | Delegate responsibilities |
+| 🌐 Discord Communities | Organize community work |
+| 🏆 Competitive Teams | Manage team responsibilities |
 
 ---
 
-## 💡 FROM MESSAGES TO MANAGED TASKS
+## 💡 From Messages to Managed Tasks
 
-Instead of:
+### Without Task Assigner
 
 > ❌ "Can someone handle this?"
 >
@@ -64,140 +166,110 @@ Instead of:
 >
 > ❌ "Is this finished yet?"
 
-Use **Task Assigner**:
+### With Task Assigner
 
-> 🟡 **ASSIGN**
+> 🟡 **TASK ASSIGNER**
 >
-> 📊 **TRACK**
->
-> 🔔 **MONITOR**
->
-> ✅ **COMPLETE**
+> 📌 Assign  
+> 📊 Track  
+> 🔔 Monitor  
+> ✅ Complete
 
 ---
 
-## 📋 COMMANDS
+## 📋 Commands
 
-Task Assigner uses Discord's modern application-command system.
+Task Assigner uses Discord's modern **application commands**.
 
-Use `/help` to view the currently available commands and features.
+Use:
 
-> 💡 Commands and features may expand as Task Assigner continues to evolve.
+**`/help`**
 
----
-
-## 🌟 WHY TASK ASSIGNER?
-
-Discord is already where your team communicates.
-
-Task Assigner brings structured task management directly into that environment.
-
-No more:
-
-- ❌ Scattered task messages
-- ❌ Forgetting who was assigned something
-- ❌ Repeatedly asking for progress
-- ❌ Losing important responsibilities in chat
-
-Instead:
-
-- 🟡 Clear assignments
-- 📊 Better organization
-- 🔔 Useful notifications
-- ✅ Easier completion tracking
-
-### **Clear tasks. Clear responsibility. Less confusion.**
+to view the currently available commands and features.
 
 ---
 
-## 📸 PREVIEW
+## 🚀 Get Started
 
-Screenshots and feature previews will be added as Task Assigner continues to grow.
+Ready to organize your Discord server?
+
+<div align="center">
+
+### 🟡 Add Task Assigner
+
+<a href="https://discord.com/oauth2/authorize?client_id=1555037991964246107">
+<img src="https://img.shields.io/badge/ADD%20TO%20DISCORD-FFD700?style=for-the-badge&logo=discord&logoColor=black&labelColor=111111">
+</a>
+
+<br><br>
+
+<a href="https://taskassigner.of.to/">
+<img src="https://img.shields.io/badge/VISIT%20WEBSITE-FFD700?style=for-the-badge&labelColor=111111">
+</a>
+
+<a href="https://discord.gg/gpfgZS2Ca5">
+<img src="https://img.shields.io/badge/JOIN%20SUPPORT-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=111111">
+</a>
+
+</div>
 
 ---
 
-## 🛠️ THIS REPOSITORY
+## ⭐ Support Task Assigner
+
+If you like Task Assigner:
+
+- ⭐ Star this repository
+- 🤖 Invite the bot to your server
+- 💬 Join the support server
+- ⭐ Vote for Task Assigner on bot-list platforms
+
+Every bit of support helps the project grow.
+
+---
+
+## 🔗 Official Links
+
+| Resource | Link |
+|---|---|
+| 🤖 Discord Bot | [Invite Task Assigner](https://discord.com/oauth2/authorize?client_id=1555037991964246107) |
+| 🌐 Website | [taskassigner.of.to](https://taskassigner.of.to/) |
+| 💬 Support Server | [discord.gg/gpfgZS2Ca5](https://discord.gg/gpfgZS2Ca5) |
+| ⭐ Top.gg | **Coming soon** |
+| 🤖 Discord Bot List | **Coming soon** |
+
+---
+
+## 🛠️ About This Repository
 
 This repository is the **official public showcase and information repository for Task Assigner**.
 
 It is **not the bot's source-code repository**.
 
-The repository exists to provide:
+The purpose of this repository is to provide:
 
-- 📚 Information about Task Assigner
+- 📚 Public information
 - 📋 Feature documentation
-- 📝 Public documentation
-- 📸 Product previews
-- 📢 Updates and announcements
+- 📸 Screenshots and previews
+- 📢 Project updates
 - 🔗 Official links
 
 ---
 
-## 📈 SUPPORT THE PROJECT
+<div align="center">
 
-⭐ **Star this repository** if you like Task Assigner.
-
-Watching the repository helps you keep up with future updates and improvements.
-
-You can also help Task Assigner grow by inviting it to your server and supporting it on bot-list platforms.
-
----
-
-## 🔗 LINKS
-
-| Resource | Link |
-|---|---|
-| 🤖 Invite Bot | [Add Task Assigner](https://discord.com/oauth2/authorize?client_id=1555037991964246107) |
-| 🌐 Website | [taskassigner.of.to](https://taskassigner.of.to/) |
-| 💬 Support Server | [Join Discord](https://discord.gg/gpfgZS2Ca5) |
-| ⭐ Top.gg | **Coming soon** |
-| 🤖 Discord Bot List | **Coming soon** |
-| 📚 Documentation | **Coming soon** |
-
----
-
-## 🗺️ ROADMAP
-
-Task Assigner is continuously evolving.
-
-Planned areas include:
-
-- 📌 More task management tools
-- ⏰ Better deadline handling
-- 🔔 Improved reminders
-- 📊 Advanced progress tracking
-- 📝 Better task organization
-- 👥 Team-focused features
-- ⚙️ More server configuration
-- 📈 Useful productivity statistics
-
-> Roadmap items may change as Task Assigner progresses.
-
----
-
-## 🤝 SUPPORT
-
-Need help, found a problem, or have a feature idea?
-
-Join the official Task Assigner support server:
-
-### 💬 [Join the Support Server](https://discord.gg/gpfgZS2Ca5)
-
----
+<img src="assets/logo.png" width="80" alt="Task Assigner">
 
 # 🟡 TASK ASSIGNER
 
-> **Assign • Track • Complete**
+**Assign • Track • Complete**
 
-Turn responsibilities into action.
+*Turn responsibilities into action.*
 
-### ⭐ [Invite Task Assigner](https://discord.com/oauth2/authorize?client_id=1555037991964246107)
+<br>
 
-🌐 [Website](https://taskassigner.of.to/) • 💬 [Support Server](https://discord.gg/gpfgZS2Ca5)
+[🌐 Website](https://taskassigner.of.to/) •
+[💬 Support](https://discord.gg/gpfgZS2Ca5) •
+[🤖 Invite](https://discord.com/oauth2/authorize?client_id=1555037991964246107)
 
----
-
-<p align="center">
-  <b>🟡 Task Assigner</b><br>
-  <i>Simple task management for Discord.</i>
-</p>
+</div>
