@@ -26,6 +26,10 @@
 <img src="https://img.shields.io/badge/💬%20SUPPORT-5865F2?style=for-the-badge&labelColor=111111">
 </a>
 
+<a href="https://top.gg/bot/1555037991964246107/vote">
+<img src="https://img.shields.io/badge/🗳️%20VOTE-FFD700?style=for-the-badge&labelColor=111111">
+</a>
+
 </div>
 
 ---
@@ -51,31 +55,31 @@ Instead of losing responsibilities inside normal Discord messages, turn them int
 
 ### 📌 Task Assignment
 
-Assign specific work to another member and clearly define their responsibility.
+Assign work to people or whole groups, with a priority, a due date and a reminder. Assignees can accept or reject.
 
 </td>
 <td width="50%">
 
-### 📋 Task Management
+### 👥 Groups & Rules
 
-Keep track of tasks you've created and tasks assigned to you.
+Decide who can assign to whom. Build groups from people and roles, with exceptions on both sides.
 
 </td>
 </tr>
 
 <tr>
+<td width="50%">
+
+### 📋 Task Browser
+
+Page through tasks, filter by status, sort by newest or due soonest, then accept, update or complete.
+
+</td>
 <td width="50%">
 
 ### 📊 Progress Tracking
 
-See what is pending, active, completed, or needs attention.
-
-</td>
-<td width="50%">
-
-### 🔔 Notifications
-
-Keep members informed about important task updates and deadlines.
+Report progress with notes, mark tasks complete and browse everything that's finished.
 
 </td>
 </tr>
@@ -83,16 +87,50 @@ Keep members informed about important task updates and deadlines.
 <tr>
 <td width="50%">
 
-### ⚡ Discord-Native
+### 🔔 Due Reminders
 
-Manage everything directly inside Discord using modern application commands.
+A heads-up an hour before and a nudge when a task is due. Turn them on or off with one button.
 
 </td>
 <td width="50%">
 
-### 📝 Organized Work
+### 😴 Custom Snooze
 
-Replace scattered messages with structured and understandable assignments.
+Snooze any reminder for exactly as long as you want: `30m`, `2h`, `1d 6h`, `1w`.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📝 Personal To-Do Lists
+
+Unlimited-style lists with priorities, tags, notes, due dates, repeats, pins, subtasks and DM reminders.
+
+</td>
+<td width="50%">
+
+### 📌 Staff & Group To-Do Lists
+
+Staff can give a member or a whole group a to-do list, then see everyone's progress.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📜 Loggers
+
+Send assigned, progress and completed logs to a channel, a person or a group.
+
+</td>
+<td width="50%">
+
+### 🗳️ Vote Stats & Leaderboard
+
+See how often you've voted this week, month, year or any custom period, and where you rank.
 
 </td>
 </tr>
@@ -146,7 +184,7 @@ Replace scattered messages with structured and understandable assignments.
 
 | 👥 Community | 🎯 Purpose |
 |---|---|
-| 🛡️ Staff Teams | Moderation & management tasks |
+| 🛡️ Staff Teams | Moderation, management tasks and staff to-do lists |
 | 🎮 Gaming Communities | Gaming & server tasks |
 | 💻 Development Teams | Development work |
 | 📚 Study Groups | Assign study/project work |
@@ -179,13 +217,29 @@ Replace scattered messages with structured and understandable assignments.
 
 ## 📋 Commands
 
-Task Assigner uses Discord's modern **application commands**.
+Every command works as a slash command and as a prefix command. Use **`/help`** for the interactive help center.
 
-Use:
-
-**`/help`**
-
-to view the currently available commands and features.
+| Command | What it does |
+|---|---|
+| `/assign` | Build a task and assign it |
+| `/unassign` | Browse and unassign tasks |
+| `/tasks` | Browse tasks with Back / Next |
+| `/progress` | Report progress on a task |
+| `/completed` | Completed history and marking complete |
+| `/snooze` | Snooze a task reminder for any length of time |
+| `/todo` | Your personal to-do lists |
+| `/todoassign` | Give a member or group a to-do list |
+| `/stafftodo` | See the lists you gave out and everyone's progress |
+| `/todoremove` | Take back a list you gave out |
+| `/vote` | Vote for the bot |
+| `/votepos` | Your position on the vote leaderboard |
+| `/voteinfo` | Votes this week, month, year or a custom period |
+| `/voteleaderboard` | Top voters |
+| `/settings` | Groups, assign rules and loggers (admins) |
+| `/prefix` | Manage server prefixes (admins) |
+| `/botinfo` | Bot stats and links |
+| `/help` | Interactive help center |
+| `/ping` | Latency |
 
 ---
 
@@ -222,7 +276,7 @@ If you like Task Assigner:
 - ⭐ Star this repository
 - 🤖 Invite the bot to your server
 - 💬 Join the support server
-- ⭐ Vote for Task Assigner on bot-list platforms
+- 🗳️ [Vote for Task Assigner on Top.gg](https://top.gg/bot/1555037991964246107/vote)
 
 Every bit of support helps the project grow.
 
@@ -235,8 +289,8 @@ Every bit of support helps the project grow.
 | 🤖 Discord Bot | [Invite Task Assigner](https://discord.com/oauth2/authorize?client_id=1555037991964246107) |
 | 🌐 Website | [taskassigner.of.to](https://taskassigner.of.to/) |
 | 💬 Support Server | [discord.gg/gpfgZS2Ca5](https://discord.gg/gpfgZS2Ca5) |
-| ⭐ Top.gg | **Coming soon** |
-| 🤖 Discord Bot List | **Coming soon** |
+| ⭐ Top.gg | [top.gg/bot/1555037991964246107](https://top.gg/bot/1555037991964246107) |
+| 🤖 Discord Bots | [discord.bots.gg](https://discord.bots.gg/bots/1555037991964246107) |
 
 ---
 
